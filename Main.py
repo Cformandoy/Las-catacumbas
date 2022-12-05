@@ -76,7 +76,6 @@ if opcion == "A":
             clear()
 
             hacha = True
-
             print("________________________________________________________________________________________________________________________\n")
             print("Genial haz logrado tomar el hacha sin despertar a la araña, eres genial.")
             print("\n+1 Hacha")
